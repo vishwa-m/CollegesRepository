@@ -1,4 +1,6 @@
-package com.vnath;
+package com.vnath.test;
+
+import com.vnath.Department;
 
 public class DepartmentTest {
 
